@@ -7,7 +7,7 @@ module.exports = {
       {
         id: 'OpenTerminalKey',
         type: 'Hotkey',
-        hotkey: 'cmd+alt+t',
+        hotkey: 'cmd+shift+s',
         name: 'OpenTerminalKey',
         connections: ['OpenTerminal'],
       },
