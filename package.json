@@ -1,0 +1,14 @@
+{
+  "name": "zazu-open-terminal",
+  "version": "1.0.0",
+  "description": "Open a terminal here.",
+  "keywords": [
+    "zazu",
+    "terminal",
+    "finder"
+  ],
+  "author": "Amjith Ramanujam",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
