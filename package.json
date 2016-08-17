@@ -2,6 +2,7 @@
   "name": "zazu-open-terminal",
   "version": "1.0.0",
   "description": "Open a terminal here.",
+  "icon": "assets/terminal.png",
   "keywords": [
     "zazu",
     "terminal",
