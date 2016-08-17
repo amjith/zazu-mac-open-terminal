@@ -10,6 +10,6 @@ results
 tell application "iTerm2"
     create window with default profile
     tell current session of first window
-        write text "cd ~/Downloads"
+        write text "cd '" & results & "'"
     end tell
 end tell
