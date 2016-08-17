@@ -7,5 +7,5 @@ Open terminal to the current path of the finder window.
 Add the package to your plugins array in `./zazurc.js`.
 
 ~~~ javascript
-'amjith/zazu-open-terminal',
+'amjith/zazu-mac-open-terminal',
 ~~~
