@@ -23,7 +23,7 @@ You can overwrite the keyboard shortcut by defining a variable with the name
 
 ~~~ javascript
 {
-  name: 'tinytacoteam/zazu-clipboard',
+  name: 'amjith/zazu-mac-open-terminal',
   variables: {
     OpenTerminalKey: 'alt+shift+t',
   },
@@ -35,7 +35,7 @@ use iTerm2 instead you can change that preference here as well.
 
 ~~~ javascript
 {
-  name: 'tinytacoteam/zazu-clipboard',
+  name: 'amjith/zazu-mac-open-terminal',
   variables: {
     OpenTerminalKey: 'alt+shift+t',
     terminal: 'iterm2',
