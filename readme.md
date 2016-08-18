@@ -19,7 +19,7 @@ Add the package to your plugins array in `./zazurc.js`.
 ### Options
 
 You can overwrite the keyboard shortcut by defining a variable with the name
-`ClipboardKey`.
+`OpenTerminalKey`.
 
 ~~~ javascript
 {
